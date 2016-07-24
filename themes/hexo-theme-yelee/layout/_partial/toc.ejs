@@ -1,0 +1,16 @@
+<div id="toc" class="toc-article">
+    <strong class="toc-title"><%= __('toc.title') %></strong>
+    <%- toc(post.content) %>
+</div>
+<style>
+    .left-col .switch-btn,
+    .left-col .switch-area {
+        display: none;
+    }
+</style>
+
+<input type="button" id="tocButton" value="<%= __('toc.hide') %>"  title="<%= __('tooltip.tocButton') %>">
+
+<script>
+    yiliaConfig.toc = ["<%= __('toc.hide') %>", "<%= __('toc.show') %>", !!"<%= theme.toc_nowrap %>"];
+</script>
