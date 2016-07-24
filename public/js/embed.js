@@ -16,11 +16,11 @@ function checkMobile() {
 //管理员判断开始
 function sskadmin(e) {
     var ssk = '';
-    if (e.user_id == 6241514068348240642) {
+    if (e.user_id == 6225154084773561090) {
         if (checkMobile()) {
-            ssk = '<span class="ua"><span class="sskadmin">博主</span></span><br><br>';
+            ssk = '<span class="ua"><span class="sskadmin">Captain</span></span><br><br>';
         } else {
-            ssk = '<span class="ua"><span class="sskadmin">博主</span></span>';
+            ssk = '<span class="ua"><span class="sskadmin">Captain</span></span>';
         }
     } else {
         if (checkMobile()) {
