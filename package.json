@@ -1,13 +1,13 @@
 {
-  "name": "xiaomoblog",
+  "name": "xiaomo-dizi",
   "version": "0.0.1",
   "hexo": {
-    "version": "3.2.0"
+    "version": "3.2.2"
   },
   "scripts": {
     "build": "hexo generate",
     "dev": "hexo generate && http-server",
-    "test":"http-server --port=PORT",
+    "test": "http-server --port=PORT",
     "start": "hexo generate && hexo server"
   },
   "dependencies": {

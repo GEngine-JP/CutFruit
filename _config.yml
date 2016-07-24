@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小莫-fighting
-subtitle: 努力钻研angular2中.....
+title: 小莫-笛子空间
+subtitle: 优雅而动听.....
 description:
 author: xiaomo
 language: zh-CN
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.xiaomo.info
+url: http://dizi.xiaomo.info
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -65,7 +65,7 @@ exclude_generator:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: hexo-theme-apollo
-theme: hexo-theme-yelee
+theme: yilia
 
 archive_generator:
     per_page: 0
@@ -77,5 +77,5 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/qq83387856/xiaomo.github.io.git
+  repository: https://github.com/xiaomo-info/xiaomo-dizi.git
   branch: master
