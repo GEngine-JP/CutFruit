@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://dizi.xiaomo.info/2016/07/25/start_choose/</loc>
+    
+    <lastmod>2016-07-25T02:45:20.163Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://dizi.xiaomo.info/tags/index.html</loc>
     
     <lastmod>2016-07-24T11:12:41.168Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://dizi.xiaomo.info/search/index.html</loc>
     
     <lastmod>2016-07-24T11:12:41.166Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dizi.xiaomo.info/2016/07/28/angular2_api_roter/</loc>
-    
-    <lastmod>2016-07-23T05:39:12.019Z</lastmod>
     
   </url>
   
