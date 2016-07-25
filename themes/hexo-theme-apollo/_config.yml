@@ -1,21 +1,21 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/234129952
+    GitHub: https://github.com/qq83387856
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: http://static.xiaomo.info/images/avatar.png
+logo: http://static.xiaomo.info/images/avatar.png
 
 # Comment
 # e.g disqus: seansun
 disqus:
-duoshuo:
+duoshuo: xiaomo-dizi
 
 # Analytics
 # google-analytics:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
